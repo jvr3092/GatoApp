@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GatoApp</string>
+    <string name="choose"><b>Escoge para Jugar</b></string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="difficulty"><b>Dificultad</b></string>
+    <string name="easy"><b>Fácil</b></string>
+    <string name="normal"><b>Normal</b></string>
+    <string name="hard"><b>Difícil</b></string>
+    <string name="again"><b>¿Otro?</b></string>
+    <string name="index"><b>Inicio</b></string>
+    <string name="draw"><b>Empate</b></string>
+    <string name="winX"><b>Gana X</b></string>
+    <string name="winO"><b>Gana O</b></string>
+</resources>
